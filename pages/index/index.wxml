@@ -1,0 +1,9 @@
+<view>
+	<demo-demo>
+		weewe
+		<view slot="bottom">
+			我是bottom
+		</view>
+	</demo-demo>
+</view>
+
