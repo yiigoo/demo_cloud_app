@@ -1,5 +1,10 @@
 <view>
-    <img src="/images/account_selected.png" alt="" />
-    <view class="left">1</view>
-    <view class="right">2</view>
+    <image src="/images/banner.png" alt="" class="banner" />
+    <view class="flex">
+        <view class="left">1</view>
+        <view class="right">2</view>
+    </view>
+    <view class="footer">
+        <navigator url="/pages/index/about/main">子页面</navigator>
+    </view>
 </view>

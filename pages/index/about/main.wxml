@@ -1,0 +1,7 @@
+<view>
+    <image src="/images/banner.png" alt="" class="banner" />
+    <view class="flex">
+        <view class="left">about</view>
+        <view class="right">about</view>
+    </view>
+</view>
