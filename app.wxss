@@ -1,0 +1,10 @@
+.account{
+    width: 750rpx;
+    height: 4.2666666rem;
+    background-color: #ff6600;
+}
+.user{
+    width: 10rem;
+    height: 750rpx;
+    background-color: #000;
+}

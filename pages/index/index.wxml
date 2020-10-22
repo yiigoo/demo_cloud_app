@@ -1,9 +1,4 @@
 <view>
-	<demo-demo>
-		weewe
-		<view slot="bottom">
-			我是bottom
-		</view>
-	</demo-demo>
+	<navigator url="/pages/user/account/account">到账户</navigator>
 </view>
 
