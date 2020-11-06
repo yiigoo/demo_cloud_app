@@ -22,10 +22,10 @@
 			  "selectedIconPath": "images/banner.png"
 			},
 			{
-			  "pagePath": "pages/index/main",
-			  "text": "子页面",
-			  "iconPath": "images/banner.png",
-			  "selectedIconPath": "images/banner.png"
+				"pagePath": "pages/index/main",
+				"text": "首页",
+				"iconPath": "images/banner.png",
+				"selectedIconPath": "images/banner.png"
 			}
 		]
 	},
